@@ -1,5 +1,5 @@
 {
-  "name": "yeswedev-team/gravityforms-composer-installer",
+  "name": "lenonleitevantiva/gravityforms-composer-installer",
   "description": "A composer install helper for Gravity Forms",
   "type": "composer-plugin",
   "license": "MIT",
